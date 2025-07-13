@@ -1,6 +1,6 @@
 import { createContext, useContext, useState } from "react";
 
-export const API = "https://fsa-puppy-bowl.herokuapp.com/api/2502-context";
+export const API = "https://fsa-puppy-bowl.herokuapp.com/api/2506-context";
 
 const ApiContext = createContext();
 
